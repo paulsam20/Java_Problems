@@ -1,5 +1,5 @@
 import java.util.*;
-class Lefttrotation{
+class Leftrotation{
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
@@ -17,5 +17,6 @@ class Lefttrotation{
             System.out.print(x +"");
            
         }
+        System.out.println();
     }
 }

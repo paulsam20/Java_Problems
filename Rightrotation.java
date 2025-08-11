@@ -17,5 +17,6 @@ class Rightrotation{
             System.out.print(x +"");
            
         }
+        System.out.println();
     }
 }
